@@ -46,7 +46,7 @@ npm run start
 
 Ak všetko prebehlo úspešne, v príkazovom riadku by sme mali vidieť logo Metra a hlášku: "Welcome to Metro!"
 
-Následne môžeme spustiť aplikáciu v novom príkazovom oknze zadáme príkaz:
+Následne môžeme spustiť aplikáciu. V novom príkazovom okne zadáme príkaz:
 
 iOS simulátor:
 
