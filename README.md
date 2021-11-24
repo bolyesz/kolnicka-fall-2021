@@ -38,6 +38,12 @@ Keď sa nachádzame v priečinku, pred prvým spustením projektu potrebujeme na
 npm install
 ```
 
+Pre iOS je potrebné zadať príkaz:
+```bash
+cd ios && pod install && cd ..
+```
+
+
 Po inštalácií knižníc môžeme spustiť projekt pomocou Metra. Do terminálu zadáme príkaz:
 
 ```bash
