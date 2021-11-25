@@ -1,4 +1,13 @@
-const colors: Record<string, string> = {
+type Colors = {
+  amber: string;
+  mercury: string;
+  monza: string;
+  redRibbon: string;
+  sanMarino: string;
+  silver: string;
+};
+
+const colors: Colors = {
   amber: '#ffc400',
   mercury: '#e7e7e7',
   monza: '#c50928',
